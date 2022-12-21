@@ -1,4 +1,9 @@
-# hospital
+# Care & Cure Mobile App
+This app helps to find doctor based on your location and your preference. User Can enjoy amazing interactive interface and get know about there doctor details and some data about doctors which helps to make decision before take appointment. I hape plan to add some additional features within very short time like docotor rating and public comment which make a some sort of transparency before choosing a doctor. 
+
+Using: Flutter and Firebase
+
+
 
 A new Flutter project.
 
